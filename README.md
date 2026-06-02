@@ -52,5 +52,5 @@ A **GPU** is recommended for faster training, but the code also runs on CPU.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/heartbeat-classification.git
+   git clone https://github.com/PlatiscSan/heartbeat-classification
    cd heartbeat-classification
